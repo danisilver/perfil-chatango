@@ -23,5 +23,5 @@ require(["particles-cfg", "scm-main", "vl"], function(particlesJS, scm, vl){
 		particlesJS.initParticles();
 	}
 	
-	console.log("bye world");
+	console.log("something to third revision");
 });
