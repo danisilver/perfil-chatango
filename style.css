@@ -1,0 +1,76 @@
+@CHARSET "utf-8";
+
+* {
+	margin: 0;
+	padding: 0
+}
+
+html {
+	
+}
+
+#particles-js {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+body {
+	background-image: url('http://aurous.me/assets/img/bg.jpg') !important;
+	background-color: #eee;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.twitter-timeline {
+	height: initial !important;
+}
+
+#visitlogger {
+	width: 300px;
+	clear: left;
+	float: left;
+	height: 445px;
+}
+
+#disqus_thread {
+	background: rgba(255, 255, 255, 0.6);
+	padding: 0 1em;
+	box-sizing: border-box;
+	width: 95.7%;
+	margin: 0 auto;
+}
+
+.profile_text {
+	color: white;
+}
+
+.contenedor {
+	margin: 0px auto;
+	overflow: hidden;
+	width: 520px;
+	left: -0.7em;
+	position: relative;
+}
+
+[id$=_ad], .bottombar {
+	display: none !important;
+}
+
+.contenedor>.hoja>iframe {
+	width: 100% !important;
+}
+
+.hoja {
+	position: relative;
+	border: 1px solid #ddd;
+	background-color: rgba(221, 221, 221, 0.49);
+	padding: 1.3em;
+}
+
+.root, .thm-dark {
+	background-color: rgba(51, 51, 51, 0.54) !important;
+}
