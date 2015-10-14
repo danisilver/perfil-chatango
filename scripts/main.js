@@ -22,4 +22,6 @@ require(["particles-cfg", "scm-main", "vl"], function(particlesJS, scm, vl){
 		vl.init();
 		particlesJS.initParticles();
 	}
+	
+	console.log("hello world");
 });
