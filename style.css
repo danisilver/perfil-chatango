@@ -21,7 +21,7 @@ html {
 body {
 	background-image: url('http://aurous.me/assets/img/bg.jpg') !important;
 	background-color: #eee;
-	background-size: 100%;
+	background-size: cover;
 	background-attachment: fixed;
 }
 
