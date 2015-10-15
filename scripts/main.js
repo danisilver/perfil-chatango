@@ -15,7 +15,7 @@ require(["particles-cfg", "scm-main", "vl"], function(particlesJS, scm, vl){
 
 	var style = document.createElement('link');
 	style.rel = "stylesheet";
-	style.setAttribute('href', 'https://cdn.rawgit.com/danisilver/perfil-chatango/master/style.css');
+	style.setAttribute('href', 'https://cdn.rawgit.com/danisilver/perfil-chatango/v1.5/style.css');
 	document.head.appendChild(style);
 	
 	window.onload = function(){
