@@ -24,4 +24,5 @@ require(["particles-cfg", "scm-main", "vl"], function(particlesJS, scm, vl){
 	}
 	
 	console.log("something to third revision");
+	console.log("bye world");
 });
