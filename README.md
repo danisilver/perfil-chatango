@@ -1,3 +1,3 @@
 # perfil-chatango
 No necesita descripcion
-(requireJS)[http://requirejs.com]
+[requireJS](http://requirejs.com)
